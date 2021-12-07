@@ -7,3 +7,5 @@ deneme amacli geyik reposu
 2- sdsdfsdf
 
 [fsdfsad][dfasdfsdfasdfsdf]
+
+vscode uzerinde degisiklik yapildi.
